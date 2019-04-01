@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Custom)(type KiCad)(uri ${KIPRJMOD}/Custom.pretty)(options "")(descr ""))
+  (lib (name adlib)(type KiCad)(uri ${KIPRJMOD}/adlib.pretty)(options "")(descr ""))
+)
